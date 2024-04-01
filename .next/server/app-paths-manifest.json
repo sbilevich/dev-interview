@@ -1,0 +1,5 @@
+{
+  "/cards/page": "app/cards/page.js",
+  "/api/cards/route": "app/api/cards/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
